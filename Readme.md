@@ -36,6 +36,8 @@ Os usuários devem ser capazes de:
   
 ## Segue abaixo ilustração de como ficou o prejeto final: 
 
-![Desktop-Calculadora-desing]![image](https://github.com/TiagoHenrique10/Interactive-rating-component-solution/assets/96561261/f1fd58e3-c5f7-4b6e-8dfc-25772ec7ebbc)
+![Desktop-Calculadora-desing]!
+[image](https://github.com/TiagoHenrique10/Interactive-rating-component-solution/assets/96561261/f1fd58e3-c5f7-4b6e-8dfc-25772ec7ebbc)
 
-![Mobile-Calculadora-desing]![image](https://github.com/TiagoHenrique10/Interactive-rating-component-solution/assets/96561261/c7860eda-3f94-4f40-b230-e91b188e2857)
+![Mobile-Calculadora-desing]!
+[image](https://github.com/TiagoHenrique10/Interactive-rating-component-solution/assets/96561261/c7860eda-3f94-4f40-b230-e91b188e2857)
